@@ -20,7 +20,6 @@ A complete implementation of an 8-bit Universal Asynchronous Receiver Transmitte
 - [Simulation and Testing](#simulation-and-testing)
 - [Resource Utilization](#resource-utilization)
 - [Future Improvements](#future-improvements)
-- [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
