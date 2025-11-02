@@ -82,6 +82,7 @@ This project implements the **8N1 format**, which is the most commonly used UART
 - **1**: 1 stop bit
 
 **Total frame size**: 10 bits (1 start + 8 data + 1 stop)
+![FRAME-FORMAT](Reference-Pictures/understanding-uart-02-infographic-rohde-schwarz_200_112521_1280_720_7.png)
 
 ```
 Idle | Start | D0 | D1 | D2 | D3 | D4 | D5 | D6 | D7 | Stop | Idle
