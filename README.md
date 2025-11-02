@@ -112,8 +112,8 @@ The **baud rate** defines the speed of data transmission, measured in bits per s
 4. **Stop Bit**: Transmitter drives line HIGH for stop bit duration
 5. **Return to Idle**: Line remains HIGH until next transmission
 
-[STEP-1](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Gets-Byte-from-Data-Bus-600x583.png)
-[STEP-2](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Removes-Start-Parity-and-Stop-Bits-2.png)
+![STEP-1](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Gets-Byte-from-Data-Bus-600x583.png)
+![STEP-2](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Removes-Start-Parity-and-Stop-Bits-2.wepg)
 
 
 #### Reception Process:
