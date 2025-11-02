@@ -113,9 +113,8 @@ The **baud rate** defines the speed of data transmission, measured in bits per s
 5. **Return to Idle**: Line remains HIGH until next transmission
 
 ![STEP-1](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Gets-Byte-from-Data-Bus-600x583.png)
-![STEP-2](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Removes-Start-Parity-and-Stop-Bits-2.wepg)
-
-
+![STEP-2](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Removes-Start-Parity-and-Stop-Bits-2.webp)
+![STEP-3](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-Transmitting-UART-Sends-Data-Packet-Serially-to-Receiving-UART-600x278.png)
 #### Reception Process:
 1. **Monitor for Start Bit**: Receiver continuously monitors RX line for HIGH-to-LOW transition
 2. **Validate Start Bit**: Sample at mid-point of start bit to confirm valid start (not a glitch)
@@ -123,6 +122,9 @@ The **baud rate** defines the speed of data transmission, measured in bits per s
 4. **Reconstruct Byte**: Collect all 8 data bits into a parallel byte
 5. **Verify Stop Bit**: Check that stop bit is HIGH; if not, frame error occurred
 6. **Output Data**: Assert data-valid signal and output the received byte
+
+![STEP-4](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-UART-Removes-Start-Parity-and-Stop-Bits-2.png)
+![STEP-5](Reference-Pictures/Introduction-to-UART-Data-Transmission-Diagram-Receiving-UART-Sends-Byte-to-Data-Bus-2-600x629.png)
 
 #### Oversampling:
 This implementation uses **16x oversampling** of the baud rate. This means the internal clock runs at 16 times the baud rate, allowing the receiver to:
