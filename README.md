@@ -675,9 +675,9 @@ SOFTWARE.
 
 For questions, suggestions, or contributions:
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/uart-verilog-fpga/issues)
+- **GitHub Issues**: Report bugs or request features to my Email
 - **Pull Requests**: Contributions are welcome!
-- **Email**: your.email@example.com
+- **Email**: mridulsudheerkumar21feb2005@gmail.com
 
 ---
 
