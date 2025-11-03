@@ -457,6 +457,9 @@ INFO: Receiver has asserted 'rx_valid'.
 INFO: Simulation finished.
 ```
 
+![Before](Results/Waveform_Before.png)
+![After](Results/Waveform_After.png)
+
 ### Hardware Testing
 
 #### 1. Synthesize and Implement
