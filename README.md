@@ -468,6 +468,13 @@ INFO: Simulation finished.
 2. **Run Implementation**: Click "Run Implementation"
 3. **Generate Bitstream**: Click "Generate Bitstream"
 
+![After](Results/Implementation.png)
+![After](Results/Elaborate.png)
+![After](Results/Device.png)
+![After](Results/Device_2.png)
+![After](Results/Package.png)
+![After](Results/Power.png)
+
 #### 2. Program FPGA
 
 1. Connect ZedBoard via USB
