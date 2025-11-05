@@ -503,13 +503,17 @@ INFO: Simulation finished.
    - Windows: Device Manager → Ports (COM & LPT)
    - Linux: `ls /dev/ttyUSB*` or `/dev/ttyACM*`
 
+![PuTTY_COM](Reference-Pictures/PuTTY.png)
+
 2. **Configure Terminal** (Tera Term / PuTTY):
    - Port: Select correct COM port
-   - Baud Rate: 115200 (or your configured rate)
+   - Baud Rate: 19200 (or your configured rate)
    - Data Bits: 8
    - Parity: None
    - Stop Bits: 1
    - Flow Control: None
+
+![PuTTY_CONFIG](Reference-Pictures/PuTTY2.png)
 
 3. **Test Communication**:
    - Send characters from terminal
