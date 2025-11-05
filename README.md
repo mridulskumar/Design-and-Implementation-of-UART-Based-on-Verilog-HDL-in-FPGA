@@ -604,9 +604,9 @@ This project provides a solid foundation for UART communication on FPGAs. Here a
 ## 🙏 Acknowledgments
 
 I would like to express our gratitude to the following resources and projects that inspired and guided this implementation:
-[Design and Implementation of UART Using Verilog HDL (IJIRT176770)](https://ijirt.org/publishedpaper/IJIRT176770_PAPER.pdf).
-[Design And Implementation of UART Based on Verilog HDL]([https://ijirt.org/publishedpaper/IJIRT176770_PAPER.pdf](https://www.researchgate.net/publication/369465619_Design_And_Implementation_of_UART_Based_on_Verilog_HDL)).
-[DESIGN AND IMPLEMENTATION OF UART USING VERILOG: PARALLEL-INSERIAL-OUT AND SERIAL-IN-PARALLEL-OUT MODULES]([https://ijirt.org/publishedpaper/IJIRT176770_PAPER.pdf](https://www.journalijar.com/uploads/2025/07/6892e0ba8fc6e_IJAR-53012.pdf)).
+- [Design and Implementation of UART Using Verilog HDL (IJIRT176770)](https://ijirt.org/publishedpaper/IJIRT176770_PAPER.pdf).
+- [Design And Implementation of UART Based on Verilog HDL](https://www.researchgate.net/publication/369465619_Design_And_Implementation_of_UART_Based_on_Verilog_HDL).
+- [DESIGN AND IMPLEMENTATION OF UART USING VERILOG: PARALLEL-INSERIAL-OUT AND SERIAL-IN-PARALLEL-OUT MODULES](https://www.journalijar.com/uploads/2025/07/6892e0ba8fc6e_IJAR-53012.pdf).
 
 
 ### Educational Resources
